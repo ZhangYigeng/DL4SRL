@@ -33,7 +33,6 @@ padding_vector_y = [0.]*69
 
 display_step = 1000
 
-
 # construct a label dictionary
 def label_dic():
 	dictionary = np.loadtxt(path_label_dictionary, delimiter=' ', dtype = np.str)
