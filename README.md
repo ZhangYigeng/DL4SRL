@@ -8,3 +8,5 @@ File 'labels_dictionary.txt' is for 'feed_to_network.py' to read.
 Please find dataset in folder 'Data'.
 
 File folder 'Preprocess' contains some files for raw data preprocessing, can just simply ignore it.
+
+For word embeddings, please find in https://www.dropbox.com/sh/1vy4h23sjsmen2u/AAARUD4gNUEC0OJvZuaSwZTta?dl=0 to download all the files as pre-trained word embedding.
